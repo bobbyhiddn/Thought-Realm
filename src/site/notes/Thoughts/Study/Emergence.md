@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/study/emergence/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/thoughts/study/emergence/"}
 ---
 
 
